@@ -75,3 +75,6 @@ please credit me and ask before using my code, and **make sure it's open sourced
 # a small todo for me
 - Added Rotation Hack (Only on Windows & Android)
 - Added Default Song Bypass (Only on Windows & Android)
+
+- i did a commit
+  
